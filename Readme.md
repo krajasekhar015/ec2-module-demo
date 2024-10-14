@@ -1,4 +1,4 @@
-In Terraform, a module is a container for multiple resources that are used together. Modules are a way to organize and reuse your code, making it easier to manage infrastructure at scale. Every Terraform configuration uses modules, whether explicitly or implicitly, as the root module is the top-level directory where you run Terraform commands.
+In Terrafom, a module is a container for multiple resources that are used together. Modules are a way to organize and reuse your code, making it easier to manage infrastructure at scale. Every Terraform configuration uses modules, whether explicitly or implicitly, as the root module is the top-level directory where you run Terraform commands.
 
 # Key Concepts of Terraform Modules:
 
